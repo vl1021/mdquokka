@@ -14,5 +14,5 @@ The documentation is published in the following formats:
 
 	### Handlebars Helpers
 In addition to the default Handlebars helpers, the documentation supports:
-- **188 Handlebars Helpers**: These helpers are categorized into approximately 20 categories. For a comprehensive list, visit handlebars-helpers.
+- **188 Handlebars Helpers**: These helpers are categorized into approximately 20 categories. For a comprehensive list, visit [handlebars-helpers](https://github.com/helpers/handlebars-helpers).
 - **jsonToMarkdownTable Helper**: This custom helper reads JSON data files and prints them as Markdown tables.
