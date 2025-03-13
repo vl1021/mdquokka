@@ -6,6 +6,15 @@
   Datapost Header   Public Data Manifest   Public Data Consent   Private Data Manifest   Private Data Content  
  ----------------- ---------------------- --------------------- ----------------------- ---------------------- 
 
+ ----------- ------- --------------- -------------------------
+   First    row                12.0 Example of a row that
+                                    spans multiple lines.
+
+  Second    row                 5.0 Here's another one. Note
+                                    the blank line between
+                                    rows.
+----------- ------- --------------- -------------------------
+
 Alignments can be specified as with pipe tables, by putting colons at the boundaries of the separator line after the header:
 
 +---------------+---------------+--------------------+
